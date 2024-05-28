@@ -18,7 +18,7 @@
 2. Enter the following command in the terminal at the path to the file location you downloaded.
 
 ~~~
-gcc wordquiz.c
+gcc -o wordquiz wordquiz.c
 ~~~
 3. Then, an executable file will be created. Enter the following command and run it.
 ~~~
