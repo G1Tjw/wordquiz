@@ -3,7 +3,7 @@
 
 - WordQuiz is a simple CLI program written in C.
 
-- This project was created to study words.
+- This project was created to study English words.
 
 - There are four word books depending on the number of words, and you can choose from these to take the test.
 
@@ -14,7 +14,7 @@
 
 ## How to Install and Run the Project
 
-1. Download the wordbooks folder and wordqui.c file.
+1. Download the wordbooks folder and wordquiz.c file.
 2. Enter the following command in the terminal at the path to the file location you downloaded.
 
 ~~~
