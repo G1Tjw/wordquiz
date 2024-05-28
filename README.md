@@ -22,7 +22,7 @@ gcc -o wordquiz wordquiz.c
 ~~~
 3. Then, an executable file will be created. Enter the following command and run it.
 ~~~
-./wordquiz.out
+./wordquiz
 ~~~
 ## How to use the project
 - You can use it by entering a number between 1 and 4.
