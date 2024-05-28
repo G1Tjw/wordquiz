@@ -33,7 +33,7 @@ gcc -o wordquiz wordquiz.c
 ## Credits
 Organization : Chungbuk National University
 
-contributoes : ChoiAlex, 98choistar
+contributors : ChoiAlex, 98choistar
 
 ## License
 This project follows the MIT license.
